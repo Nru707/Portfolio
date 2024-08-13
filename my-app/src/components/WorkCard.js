@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/img-redundant-alt */
 import './WorkCardStyles.css';
 import { NavLink } from 'react-router-dom';
 
@@ -6,7 +7,7 @@ import React from 'react';
 const WorkCard = (props) => {
   return (
     <div className="project-card">
-      <image src={props.imgsrc} alt="image" />
+      <img src={props.imgsrc} alt="image" />
       <h2 className="project-title">{props.title}</h2>
       <div className="pro-details">
         <p>{props.text}</p>
