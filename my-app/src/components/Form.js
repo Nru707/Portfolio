@@ -45,10 +45,8 @@ const Form = () => {
         <label>Subject</label>
         <input type="text" name="subject" required></input>
         <label>Message</label>
-        <textarea rows="6" placeholder="Type Your Message Here" required />
-        <button className="btn" type="submit">
-          Submit
-        </button>
+        <textarea rows="6" name='message' placeholder="Type Your Message Here" required></textarea>
+        <button className="btn" type="submit"> Submit</button>
       </form>
     
     </div>
