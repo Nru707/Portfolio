@@ -13,6 +13,8 @@
 .project-card {
   background: #1a1919;
   padding: 1.2rem 1rem;
+  border-radius: 13px;
+  background: #281c1c;
 }
 .project-card img {
   width: 100%;
@@ -30,9 +32,11 @@
   display: flex;
   justify-content: space-between;
   padding: 0.5rem 0;
+  border-radius: 13px;
 }
 .pro-btns .btn {
   padding: 0.5rem 1rem;
+  border-radius: 6px;
 }
 
 @media screen and (max-width: 740px) {
