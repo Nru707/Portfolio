@@ -8,13 +8,13 @@ const projectCardData = [
     title: "Flight Management System",
     text: "User Friendly Interface, Real Time Flight Information, Flight Booking System",
     view: "https://github.com/Nru707/FlightManagementSystemApp",
-    viewsource: "https://github.com/Nru707/Mejor-Project-college",
+    viewsource: "https://github.com/Nru707/FlightManagementSystemApp",
   },
   {
     imgsrc: pro2,
     title: "Hospital Management System",
     text: "User Friendly Interface, Real Time Patient Information, Appointment Booking System",
-    view: "https://github.com/Nru707/Mejor-Project-college",
+    view: "https://collage-project-zeta.vercel.app/",
     viewsource: "https://github.com/Nru707/Mejor-Project-college",
   },
   {
