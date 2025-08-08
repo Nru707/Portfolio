@@ -32,7 +32,7 @@ const Footer = () => {
                   <div className='social'>
                     <a href='www.facebook.com'><FaFacebook size={30} style={{color: '#fff', marginRight: '1rem'}} /></a> 
                      <a href='www.twitter.com'><FaTwitter size={30} style={{color: '#fff', marginRight: '1rem'}} /></a>
-                     <a href='www.linkedin.com'><FaLinkedin size={30} style={{color: '#fff', marginRight: '1rem'}} /></a>
+                     <a href='https://www.linkedin.com/in/narendra-singh-23b404109/'><FaLinkedin size={30} style={{color: '#fff', marginRight: '1rem'}} /></a>
                   </div>
                </div>
          </div>
